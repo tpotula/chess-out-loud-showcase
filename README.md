@@ -15,4 +15,5 @@ Chess analysis tool that reviews your moves alongside what you were thinking dur
 5. Over many games, the app surfaces patterns in how you think and what you can improve on
 
 ## Tech stack
-JavaScript, React, Vite, Python, FastAPI, REST API, Manifest V3, , Gemini and OpenAI APIs, PostgreSQL, Docker
+JavaScript, React, Vite, Python, FastAPI, REST API, Manifest V3, , Gemini and OpenAI APIs, PostgreSQL, Docker 
+Code in Private Repo
